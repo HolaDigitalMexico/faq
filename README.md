@@ -1,0 +1,2 @@
+# faq
+Preguntas y respuestas
